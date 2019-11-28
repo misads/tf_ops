@@ -1,7 +1,7 @@
 # tf_ops
 Several commonly used TensorFlow ops in a jupter notebook format.
 
-### Files
+## Files
 
 ```yaml
 .
@@ -12,3 +12,7 @@ Several commonly used TensorFlow ops in a jupter notebook format.
 │     └── tf.reshape
 └── bin_entropy.ipynb
 ```
+
+## Browse
+
+You can browse the `.ipynb` file in [here](https://nbviewer.jupyter.org/github/misads/tf_ops/tree/master/notebooks/).
